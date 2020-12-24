@@ -5,4 +5,5 @@ import (
     "sync"
 )
 
-func   
+var x = 0
+func
