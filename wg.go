@@ -6,4 +6,5 @@ import (
 )
 
 var x = 0
-func
+func increment(wg *sync.WaitGroup, ch chan bool){
+}
